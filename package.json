@@ -1,6 +1,0 @@
-{
-  "name": "openclaw-sandbox",
-  "version": "1.0.0",
-  "description": "Benchmark test repo",
-  "main": "src/index.js"
-}
